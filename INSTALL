@@ -1,0 +1,9 @@
+Building CryptoCoinMan
+
+See doc/readme-qt.rst for instructions on building CryptoCoinMan QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CryptoCoinMan.
+
+See doc/build-*.txt for instructions on building cryptocoinmand,
+the intended-for-services, no-graphical-interface, reference
+implementation of CryptoCoinMan.
